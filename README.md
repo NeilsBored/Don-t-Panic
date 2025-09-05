@@ -7,7 +7,7 @@ Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it 
 <br>
 <b>What is this?</b>
 
-DON’T PANIC (Path B only) is a supply-chain-aware forecasting toolkit built on IBM Granite Time Series Foundation Models (TSFM). It uses Tiny Time Mixer (TTM) models with mix-channel decoding to learn cross-series influence (e.g., supplier → customer). The project is JSON-first, Docker-ready, and comes with a small FastAPI service.
+DON’T PANIC is a supply-chain-aware forecasting toolkit built on IBM Granite Time Series Foundation Models (TSFM). It uses Tiny Time Mixer (TTM) models with mix-channel decoding to learn cross-series influence (e.g., supplier → customer). The project is JSON-first, Docker-ready, and comes with a small FastAPI service.
 
 <br>
 <b>You get:</b>
